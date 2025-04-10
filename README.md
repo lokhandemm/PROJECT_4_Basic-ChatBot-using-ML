@@ -6,7 +6,7 @@ This project is a **Basic ChatBot** built using **Machine Learning** techniques.
 
 ## 🏆 Key Features  
 
-- **Intent-based responses**: Uses a trained model to classify user input into predefined categories.   
+- **Intent-based responses**: Uses a trained model to classify user input into predefined categories.    
 - **Machine Learning-driven**: Implements ML algorithms to enhance chatbot accuracy.  
 - **Flexible and customizable**: Users can modify intents and responses easily.  
 - **Preprocessing pipeline**: Includes tokenization, lemmatization, and vectorization.  
