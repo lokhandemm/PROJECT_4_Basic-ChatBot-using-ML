@@ -1,7 +1,7 @@
 # Basic ChatBot using Machine Learning  
                       
 ## 📌 Overview      
- 
+  
 This project is a **Basic ChatBot** built using **Machine Learning** techniques. The chatbot is designed to understand and respond to user queries based on predefined intents. It utilizes **Natural Language Processing (NLP)** and **Deep Learning** models to classify user inputs and generate appropriate responses.   
 
 ## 🏆 Key Features  
